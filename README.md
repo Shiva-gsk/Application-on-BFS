@@ -1,0 +1,3 @@
+Hey there! This is my DEmonstrative application on Breadth First Search.
+It basically finds the shortest relation between two actors based on their films.
+All the data of actors is taken directly from IMDb data.
